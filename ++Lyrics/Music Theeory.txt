@@ -1,0 +1,37 @@
+
+Here is how you use the formula:
+1. Pick any key on your keyboard.
+2. Starting at zero, simply count up the keyboard to complete the given code.
+
+🔹Major
+A major chord is a chord that has a root(1), a major third(3), and a perfect fifth(5). A major triad is represented by the integer notation {0, 4, 7}.
+
+🔹Major 7th
+A major seventh chord is a seventh chord in which the third is a major third above the root, and the seventh is a major seventh above the root. Integer notation {0, 4, 7, 11}.
+
+🔹Dominant 7th
+A dominant seventh chord, or major, minor seventh chord, is a seventh chord, usually built on the fifth degree of the major scale and composed of a root, major third, perfect fifth, and minor seventh. Integer notation {0, 4, 7, 10}
+
+🔹Dominant 7 b5
+This is a flat five chord is a seventh chord composed of a root note, together with a major third, a diminished fifth, and a minor seventh above the root (1, ♮3, ♭5, and ♭7). Integer notation {0, 4, 6, 10}.
+
+🔹Minor
+A minor chord is a chord that has a root, a minor third, and a perfect fifth. Integer notation {0, 3, 7}.
+
+🔹Minor 7th
+A minor seventh chord is any seventh chord in which the third is a minor third above the root. Integer notation, {0, 3, 7, 10}.
+
+🔹Augmented
+An augmented triad is a chord made up of two major thirds (an augmented fifth). Integer notation {0, 4, 8}.
+
+🔹Augmented 7th
+The Aug 7th chord is a seventh chord composed of a root, major third, augmented fifth, and minor seventh (1, 3, ♯5, ♭7). Integer notation {0, 4, 8, 10}.
+
+🔹Diminished
+a diminished triad is a triad consisting of two minor thirds above the root.cInteger notation {0, 3, 6}.
+
+🔹Half Diminished
+This is a seventh chord composed of a root note, together with a minor third, a diminished fifth, and a minor seventh (1, ♭3, ♭5, ♭7). Integer notation {0, 3, 6, 10}.
+
+🔹Diminished 7th
+This is a four-note chord (a seventh chord) composed of a root note, a minor third, a diminished fifth, and a diminished seventh above the root: (1, ♭3, ♭5, 7). Integer notation {0, 3, 6, 9}.

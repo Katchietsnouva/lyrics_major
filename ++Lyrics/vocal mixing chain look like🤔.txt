@@ -1,0 +1,25 @@
+https://www.instagram.com/p/CsQ2FvBsasm/
+
+vocal mixing chain look like?🤔
+
+Here is a basic chain you can use:
+
+🔷 Tuning
+Start with using a pitch correction plugin if needed.
+
+🔷 Corrective EQ
+Use corrective EQ to get rid of unwanted frequencies like low-end rumble.
+
+🔷 Compression
+Use compression to smooth out the dynamics of the vocal.
+
+🔷 De-Esser
+Use a De-Esser to get rid of sibilance & make the vocal sound less harsh
+
+🔷 Tone shaping EQ
+Next use an EQ to shape the overall tonality of the vocal.
+
+🔷 Reverb & Delay
+At last at reverb & delay to give your vocal a lush sense of space & life.
+
+My friends, please note that there are no hard rules for the order of the processors in your vocal chain & this is just one way of mixing your vocals.

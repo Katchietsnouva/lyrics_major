@@ -1,0 +1,141 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Laptop_Tym/Documents/HTML/ChatApp/index.html
+Subject: Futuristic WhatsApp Chat
+Date: Sat, 29 Jul 2023 05:00:29 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--PL0D9sPiAkwrVYIlNROJErDxs6NrBlhAPU9CacYEwl----"
+
+
+------MultipartBoundary--PL0D9sPiAkwrVYIlNROJErDxs6NrBlhAPU9CacYEwl----
+Content-Type: text/html
+Content-ID: <frame-A7928D6B408666107211DC7E61C02821@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Laptop_Tym/Documents/HTML/ChatApp/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-1139a371-1384-4866-9799-cf67d4fea40e@mhtml.blink" />
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <title>Futuristic WhatsApp Chat</title>
+ =20
+</head>
+<body>
+  <div class=3D"chat-container" id=3D"chat-container">
+    <!-- The chat messages will be dynamically added here -->
+  <div class=3D"message received">
+        <span class=3D"sender">Cousin =F0=9F=98=BB=F0=9F=92=9D=F0=9F=93=8C=
+=F0=9F=92=AF</span>: Sureeeeee<br>
+        <span class=3D"timestamp">7/28/23, 10:07 PM</span>
+       =20
+      </div><div class=3D"message received">
+        <span class=3D"sender">Kachiets</span>: byhta izo tickets ni how mu=
+ch nikuadvertise kwa status nione kama marafiki wangu wa nai watafika<br>
+        <span class=3D"timestamp">    7/28/23, 10:08 PM</span>
+       =20
+      </div><div class=3D"message received">
+        <span class=3D"sender">Kachiets</span>: Tuma the piks too<br>
+        <span class=3D"timestamp">    7/28/23, 10:08 PM</span>
+       =20
+      </div><div class=3D"message sent">
+        <span class=3D"sender">You</span>: My name is Katchiets Nouva<br>
+        <span class=3D"timestamp">7/29/2023, 2:50:30 AM</span>
+        <span class=3D"delete-button">Delete</span>
+      </div><div class=3D"message received">
+        <span class=3D"sender">Bot</span>: This is an automated response.<b=
+r>
+        <span class=3D"timestamp">7/29/2023, 2:50:31 AM</span>
+       =20
+      </div><div class=3D"message sent">
+        <span class=3D"sender">You</span>: I have a bullet<br>
+        <span class=3D"timestamp">7/29/2023, 2:50:46 AM</span>
+        <span class=3D"delete-button">Delete</span>
+      </div><div class=3D"message received">
+        <span class=3D"sender">Bot</span>: This is an automated response.<b=
+r>
+        <span class=3D"timestamp">7/29/2023, 2:50:47 AM</span>
+       =20
+      </div><div class=3D"message sent">
+        <span class=3D"sender">You</span>: How many do you want<br>
+        <span class=3D"timestamp">7/29/2023, 2:50:59 AM</span>
+        <span class=3D"delete-button">Delete</span>
+      </div><div class=3D"message received">
+        <span class=3D"sender">Bot</span>: This is an automated response.<b=
+r>
+        <span class=3D"timestamp">7/29/2023, 2:50:59 AM</span>
+       =20
+      </div><div class=3D"message sent">
+        <span class=3D"sender">You</span>: Silly=F0=9F=92=80<br>
+        <span class=3D"timestamp">7/29/2023, 2:51:17 AM</span>
+        <span class=3D"delete-button">Delete</span>
+      </div><div class=3D"message received">
+        <span class=3D"sender">Bot</span>: This is an automated response.<b=
+r>
+        <span class=3D"timestamp">7/29/2023, 2:51:17 AM</span>
+       =20
+      </div><div class=3D"message sent">
+        <span class=3D"sender">You</span>: u kidin me<br>
+        <span class=3D"timestamp">7/29/2023, 2:51:49 AM</span>
+        <span class=3D"delete-button">Delete</span>
+      </div><div class=3D"message received">
+        <span class=3D"sender">Bot</span>: This is an automated response.<b=
+r>
+        <span class=3D"timestamp">7/29/2023, 2:51:50 AM</span>
+       =20
+      </div></div>
+  <div class=3D"input-container">
+    <textarea class=3D"input-box" id=3D"message-input" placeholder=3D"Type =
+your message..."></textarea>
+    <button class=3D"send-button">Send</button>
+  </div>
+
+ =20
+
+</body></html>
+------MultipartBoundary--PL0D9sPiAkwrVYIlNROJErDxs6NrBlhAPU9CacYEwl----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1139a371-1384-4866-9799-cf67d4fea40e@mhtml.blink
+
+@charset "utf-8";
+
+body { background-color: rgb(43, 43, 43); color: rgb(255, 255, 255); font-f=
+amily: Arial, sans-serif; display: flex; justify-content: center; align-ite=
+ms: center; height: 100vh; margin: 0px; }
+
+.chat-container { max-width: 600px; width: 90%; background-color: rgb(68, 6=
+8, 68); border-radius: 20px; overflow: hidden; padding: 20px; box-sizing: b=
+order-box; display: flex; flex-direction: column; gap: 10px; }
+
+.message { padding: 10px 20px; border-radius: 10px; word-break: break-word;=
+ }
+
+.sender { color: rgb(59, 241, 200); font-weight: bold; }
+
+.timestamp { color: rgb(124, 124, 124); font-size: 12px; }
+
+.received { background-color: rgb(51, 51, 51); align-self: flex-start; }
+
+.sent { background-color: rgb(0, 123, 255); color: rgb(255, 255, 255); alig=
+n-self: flex-end; }
+
+.input-container { display: flex; }
+
+.input-box { flex-grow: 1; padding: 10px; border: none; border-radius: 10px=
+; background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); resize: non=
+e; }
+
+.send-button { padding: 10px 20px; border: none; border-radius: 10px; backg=
+round-color: rgb(0, 123, 255); color: rgb(255, 255, 255); margin-left: 10px=
+; cursor: pointer; }
+
+.delete-button { background-color: rgb(255, 59, 48); }
+
+.message:hover .delete-button { display: inline-block; }
+
+.delete-button { display: none; padding: 4px 8px; border-radius: 8px; color=
+: rgb(255, 255, 255); font-size: 12px; cursor: pointer; margin-left: 10px; }
+------MultipartBoundary--PL0D9sPiAkwrVYIlNROJErDxs6NrBlhAPU9CacYEwl------
